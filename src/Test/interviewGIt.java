@@ -6,6 +6,16 @@ public class interviewGIt {
 		// TODO Auto-generated method stub
 		
 		System.out.println("My name is GIT am in");
+		System.out.println("My name is GIT am in");
+
+		System.out.println("My name is GIT am in");
+
+		System.out.println("My name is GIT am in");
+
+		System.out.println("My name is GIT am in");
+
+		System.out.println("My name is GIT am in");
+
 
 	}
 
